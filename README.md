@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> このアプリは **AI（Claude）によって改変** されています。
+
 <!--suppress CheckImageSize -->
 # <img width="24" height="24" alt="image" src="/fastlane/metadata/android/en-US/images/icon.png" /> Clock
 **Clock** is a customizable, privacy‑first, open-source clock app inspired by AOSP Clock.  
